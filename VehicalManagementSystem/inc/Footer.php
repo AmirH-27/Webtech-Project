@@ -1,0 +1,1 @@
+<center> <p>Current Date in server <?php echo date('d-m-Y'); ?> </p> </center> 
